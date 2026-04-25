@@ -1,0 +1,10 @@
+{
+  "param": "lr",
+  "value": 3.1622776601683795e-05,
+  "win_rate_vs_base": 0.32,
+  "return_variance": 57.61924313867655,
+  "sample_efficiency_slope": 0.010792479864051388,
+  "n_episodes": 500,
+  "train_updates": 497,
+  "out_dir": "/Users/feng/Desktop/不带斩杀环境的敏感性分析/oat_random_sensitivity/by_param/lr/value_3.16228e-05"
+}

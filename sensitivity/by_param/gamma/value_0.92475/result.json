@@ -1,0 +1,10 @@
+{
+  "param": "gamma",
+  "value": 0.92475,
+  "win_rate_vs_base": 0.58,
+  "return_variance": 41.93073647535791,
+  "sample_efficiency_slope": 0.012786782834179115,
+  "n_episodes": 500,
+  "train_updates": 497,
+  "out_dir": "/Users/feng/Desktop/不带斩杀环境的敏感性分析/oat_random_sensitivity/by_param/gamma/value_0.92475"
+}

@@ -1,0 +1,10 @@
+{
+  "param": "batch",
+  "value": 128,
+  "win_rate_vs_base": 0.34,
+  "return_variance": 63.89223840201675,
+  "sample_efficiency_slope": 0.01879386465010796,
+  "n_episodes": 500,
+  "train_updates": 497,
+  "out_dir": "/Users/feng/Desktop/不带斩杀环境的敏感性分析/oat_random_sensitivity/by_param/batch/value_128"
+}

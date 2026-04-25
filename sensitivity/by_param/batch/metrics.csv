@@ -1,0 +1,6 @@
+param,value,win_rate_vs_base,return_variance,sample_efficiency_slope,n_episodes,train_updates,out_dir
+batch,32,0.15,79.81539876279486,0.02066084945348103,500,497,/Users/feng/Desktop/不带斩杀环境的敏感性分析/oat_random_sensitivity/by_param/batch/value_32
+batch,64,0.28,60.06784503933914,0.011354542762083137,500,497,/Users/feng/Desktop/不带斩杀环境的敏感性分析/oat_random_sensitivity/by_param/batch/value_64
+batch,128,0.34,63.89223840201675,0.01879386465010796,500,497,/Users/feng/Desktop/不带斩杀环境的敏感性分析/oat_random_sensitivity/by_param/batch/value_128
+batch,128,0.34,63.89223840201675,0.01879386465010796,500,497,/Users/feng/Desktop/不带斩杀环境的敏感性分析/oat_random_sensitivity/by_param/batch/value_128
+batch,256,0.54,38.45890698283434,0.015752313846424608,500,497,/Users/feng/Desktop/不带斩杀环境的敏感性分析/oat_random_sensitivity/by_param/batch/value_256
