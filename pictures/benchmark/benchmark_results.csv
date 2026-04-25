@@ -1,0 +1,12 @@
+model,path,wins,losses,draws,games,win_rate
+best_mode_10,/Users/feng/Desktop/RL2/model/best_mode_10.pt,100,0,0,100,1.0000
+best_mode_5,/Users/feng/Desktop/RL2/model/best_mode_5.pt,100,0,0,100,1.0000
+best_model_1,/Users/feng/Desktop/RL2/model/best_model_1.pt,84,16,0,100,0.8400
+best_model_11,/Users/feng/Desktop/RL2/model/best_model_11.pt,100,0,0,100,1.0000
+best_model_2,/Users/feng/Desktop/RL2/model/best_model_2.pt,93,7,0,100,0.9300
+best_model_3,/Users/feng/Desktop/RL2/model/best_model_3.pt,97,3,0,100,0.9700
+best_model_4,/Users/feng/Desktop/RL2/model/best_model_4.pt,90,10,0,100,0.9000
+best_model_6,/Users/feng/Desktop/RL2/model/best_model_6.pt,100,0,0,100,1.0000
+best_model_7,/Users/feng/Desktop/RL2/model/best_model_7.pt,100,0,0,100,1.0000
+best_model_8,/Users/feng/Desktop/RL2/model/best_model_8.pt,100,0,0,100,1.0000
+best_model_9,/Users/feng/Desktop/RL2/model/best_model_9.pt,100,0,0,100,1.0000
